@@ -6,7 +6,7 @@
   <artifactId>sparkworkshop</artifactId>
   <version>0.0.1</version>
   <packaging>jar</packaging>
-  <name>Spark Workshop</name>
+  <name>Spark Workshop Scala</name>
 
   <prerequisites>
     <maven>3.1.1</maven>
