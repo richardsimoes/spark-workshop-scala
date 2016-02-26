@@ -1,7 +1,5 @@
 /*
- * Copyright 2015 Sanford Ryza, Uri Laserson, Sean Owen and Joshua Wills
- *
- * See LICENSE file for further information.
+ * Created by RSimoes
  */
 
 package com.datasignal.workshop
