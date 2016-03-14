@@ -9,7 +9,7 @@ import org.apache.spark.SparkContext
 
 object  DataLoad {
   def main(args: Array[String]) {
-    val sc = new SparkContext(new SparkConf().setAppName("Data Load"))
+    val sc = new SparkContext(new SparkConf().setAppName("Data Load").setMaster("local"))
     println("num lines: " + countLines(sc, args(0)))
   }
 
